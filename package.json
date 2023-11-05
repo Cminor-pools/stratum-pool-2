@@ -31,7 +31,7 @@
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "*",
-        "multi-hashing": "git://github.com/krisklosterman/node-multi-hashing.git"
+        "multi-hashing": "https://github.com/Cminor-pools/node-multi-hashing-2.git"
     },
     "engines": {
         "node": ">=0.10"
